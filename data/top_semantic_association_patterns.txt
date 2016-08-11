@@ -1,200 +1,200 @@
-1	Element, Ion, or Isotope-has_ingredient-Organic Chemical	0.518781508338
-2	Sign or Symptom-may_treat-Hazardous or Poisonous Substance	0.50354063045
-3	Disease or Syndrome-may_treat-Hazardous or Poisonous Substance	0.5031866632
-4	Disease or Syndrome-may_treat-Antibiotic	0.502949249599
-5	Pathologic Function-may_treat-Carbohydrate	0.501984685677
-6	Finding-inverse_isa-Health Care Activity	0.500894812138
-7	Diagnostic Procedure-has_translation-Diagnostic Procedure	0.500857078897
-8	Mental Process-is_location_of_biological_process-Body System	0.500432661657
-9	Disease or Syndrome-is_normal_cell_origin_of_disease-Cell	0.500397201992
-10	Sign or Symptom-mapped_to-Finding	0.500263657504
-11	Neoplastic Process-may_treat-Amino Acid, Peptide, or Protein	0.500226185602
-12	Sign or Symptom-mapped_to-Disease or Syndrome	0.50017706094
-13	Disease or Syndrome-classified_as-Finding	0.50016526218
-14	Disease or Syndrome-isa-Pathologic Function	0.500156858503
-15	Finding-inverse_isa-Clinical Attribute	0.500152405559
-16	Laboratory Procedure-classifies-Laboratory Procedure	0.499957450792
-17	Disease or Syndrome-has_associated_finding-Finding	0.499817538068
-18	Disease or Syndrome-related_to-Laboratory Procedure	0.499726401956
-19	Disease or Syndrome-mapped_to-Finding	0.499720723708
-20	Element, Ion, or Isotope-has_direct_substance-Therapeutic or Preventive Procedure	0.499703720031
-21	Body Part, Organ, or Organ Component-constitutional_part_of-Body Part, Organ, or Organ Component	0.499676564434
-22	Neoplastic Process-associated_morphology_of-Neoplastic Process	0.499605479795
-23	Disease or Syndrome-may_diagnose-Medical Device	0.499333422165
-24	Qualitative Concept-same_as-Qualitative Concept	0.499191935187
-25	Disease or Syndrome-parent_is_cdrh-Disease or Syndrome	0.49892094904
-26	Disease or Syndrome-associated_with-Disease or Syndrome	0.498804865036
-27	Daily or Recreational Activity-see-Sign or Symptom	0.498765034963
-28	Idea or Concept-inverse_isa-Qualitative Concept	0.498578482675
-29	Neoplastic Process-is_normal_cell_origin_of_disease-Cell	0.498450934832
-30	Disease or Syndrome-has_associated_etiologic_finding-Disease or Syndrome	0.497760917796
-31	Body Location or Region-disease_has_associated_anatomic_site-Disease or Syndrome	0.497385463876
-32	Body Part, Organ, or Organ Component-disease_has_associated_anatomic_site-Congenital Abnormality	0.497319595007
-33	Body Part, Organ, or Organ Component-part_of-Cell	0.49707767089
-34	Finding-associated_morphology_of-Anatomical Abnormality	0.49681473787
-35	Neoplastic Process-is_finding_of_disease-Disease or Syndrome	0.495767151057
-36	Finding-contraindicated_with_disease-Amino Acid, Peptide, or Protein	0.495220164636
-37	Organic Chemical-has_contraindicated_drug-Disease or Syndrome	0.493990834385
-38	Finding-is_interpreted_by-Organ or Tissue Function	0.489125889785
-39	Spatial Concept-isa-Conceptual Entity	0.488453058898
-40	Animal-isa-Animal	0.478510429361
-41	Organic Chemical-tradename_of-Organic Chemical	0.473723605379
-42	Body Part, Organ, or Organ Component-has_finding_site-Anatomical Abnormality	0.464029208223
-43	Disease or Syndrome-causative_agent_of-Virus	0.446292103823
-44	Neoplastic Process-has_permuted_term-Neoplastic Process	0.437051556435
-45	Disease or Syndrome-may_prevent-Immunologic Factor	0.432416657301
-46	Finding-associated_with-Disease or Syndrome	0.409443294913
-47	Pathologic Function-contraindicated_with_disease-Organic Chemical	0.401990571523
-48	Finding-related_to-Sign or Symptom	0.399843148465
-49	Body Part, Organ, or Organ Component-has_permuted_term-Body Part, Organ, or Organ Component	0.393125835084
-50	Sign or Symptom-may_prevent-Carbohydrate	0.382365634483
-51	Mental or Behavioral Dysfunction-isa-Mental or Behavioral Dysfunction	0.381511564031
-52	Sign or Symptom-actual_outcome_of-Finding	0.373482167807
-53	Body Part, Organ, or Organ Component-has_finding_site-Neoplastic Process	0.35688890254
-54	Disease or Syndrome-classified_as-Disease or Syndrome	0.356093196886
-55	Finding-inverse_isa-Diagnostic Procedure	0.355956625476
-56	Disease or Syndrome-related_to-Pharmacologic Substance	0.352071813932
-57	Neoplastic Process-inverse_isa-Neoplastic Process	0.350030353816
-58	Disease or Syndrome-entry_combination_of-Pathologic Function	0.344551631742
-59	Finding-related_to-Pathologic Function	0.333941359925
-60	Body Part, Organ, or Organ Component-sends_output_to-Body Part, Organ, or Organ Component	0.332623916747
-61	Sign or Symptom-actual_outcome_of-Qualitative Concept	0.332404583154
-62	Disease or Syndrome-related_to-Disease or Syndrome	0.328291109816
-63	Sign or Symptom-mapped_from-Mental or Behavioral Dysfunction	0.32290431041
-64	Body Part, Organ, or Organ Component-attributed_part_of-Body Part, Organ, or Organ Component	0.320744491149
-65	Disease or Syndrome-may_treat-Organic Chemical	0.318666295048
-66	Disease or Syndrome-has_associated_morphology-Disease or Syndrome	0.315891494479
-67	Disease or Syndrome-mapped_from-Disease or Syndrome	0.289313540265
-68	Diagnostic Procedure-inverse_isa-Laboratory Procedure	0.287503937419
-69	Disease or Syndrome-mapped_to-Disease or Syndrome	0.285906903015
-70	Finding-may_treat-Organic Chemical	0.285403797569
-71	Mental or Behavioral Dysfunction-mapped_to-Mental or Behavioral Dysfunction	0.276794744206
-72	Disease or Syndrome-due_to-Disease or Syndrome	0.27653384322
-73	Laboratory Procedure-inverse_isa-Diagnostic Procedure	0.262987129485
-74	Disease or Syndrome-isa-Disease or Syndrome	0.26093346263
-75	Disease or Syndrome-gene_product_malfunction_associated_with_disease-Amino Acid, Peptide, or Protein	0.253277232093
-76	Sign or Symptom-inverse_isa-Clinical Attribute	0.250599023154
-77	Disease or Syndrome-related_to-Therapeutic or Preventive Procedure	0.250224651426
-78	Diagnostic Procedure-classifies-Diagnostic Procedure	0.24929104315
-79	Sign or Symptom-classifies-Disease or Syndrome	0.248699470639
-80	Disease or Syndrome-finding_site_of-Tissue	0.248507076663
-81	Disease or Syndrome-disease_may_have_finding-Neoplastic Process	0.24670797083
-82	Cell Component-has_translation-Cell Component	0.228283526393
-83	Body Part, Organ, or Organ Component-has_finding_site-Disease or Syndrome	0.227819423255
-84	Cell Component-has_physical_part_of_anatomic_structure-Cell Component	0.22631742904
-85	Disease or Syndrome-has_associated_finding-Disease or Syndrome	0.226144617032
-86	Mental or Behavioral Dysfunction-classifies-Mental or Behavioral Dysfunction	0.225050313871
-87	Sign or Symptom-is_location_of_biological_process-Body System	0.224847987581
-88	Sign or Symptom-inverse_isa-Sign or Symptom	0.224322688022
-89	Sign or Symptom-possibly_equivalent_to-Sign or Symptom	0.220140491376
-90	Amino Acid, Peptide, or Protein-inverse_isa-Amino Acid, Peptide, or Protein	0.215259724168
-91	Finding-interprets-Sign or Symptom	0.212583655253
-92	Disease or Syndrome-finding_site_of-Body Part, Organ, or Organ Component	0.209573257879
-93	Disease or Syndrome-gene_associated_with_disease-Gene or Genome	0.206436309946
-94	Sign or Symptom-classifies-Mental or Behavioral Dysfunction	0.205920145421
-95	Disease or Syndrome-causative_agent_of-Bacterium	0.199518822885
-96	Neoplastic Process-classifies-Neoplastic Process	0.192494435797
-97	Sign or Symptom-has_translation-Sign or Symptom	0.191000675431
-98	Pathologic Function-has_associated_morphology-Disease or Syndrome	0.190655909314
-99	Age Group-inverse_isa-Age Group	0.188277253321
-100	Finding-related_to-Disease or Syndrome	0.177006343575
-101	Mental or Behavioral Dysfunction-may_treat-Inorganic Chemical	0.175386347383
-102	Mental or Behavioral Dysfunction-classified_as-Mental or Behavioral Dysfunction	0.171264485259
-103	Finding-inverse_isa-Disease or Syndrome	0.166707746155
-104	Sign or Symptom-classified_as-Disease or Syndrome	0.1666557427
-105	Sign or Symptom-related_to-Disease or Syndrome	0.166438196371
-106	Disease or Syndrome-may_treat-Amino Acid, Peptide, or Protein	0.165684335714
-107	Disease or Syndrome-contraindicated_with_disease-Amino Acid, Peptide, or Protein	0.164058200626
-108	Functional Concept-has_interpretation-Mental or Behavioral Dysfunction	0.164017401206
-109	Functional Concept-inverse_isa-Pathologic Function	0.163193835268
-110	Element, Ion, or Isotope-inverse_isa-Pharmacologic Substance	0.160737492273
-111	Body Part, Organ, or Organ Component-has_direct_procedure_site-Therapeutic or Preventive Procedure	0.157268729108
-112	Sign or Symptom-finding_site_of-Body Part, Organ, or Organ Component	0.156774017065
-113	Mental or Behavioral Dysfunction-may_treat-Organic Chemical	0.155890875858
-114	Cell Component-has_physical_part_of_anatomic_structure-Cell	0.151926604406
-115	Functional Concept-possibly_equivalent_to-Functional Concept	0.151648615674
-116	Finding-isa-Mental Process	0.147763980088
-117	Finding-see-Therapeutic or Preventive Procedure	0.147704782519
-118	Organic Chemical-inverse_isa-Pharmacologic Substance	0.145447618474
-119	Neoplastic Process-has_translation-Neoplastic Process	0.142772053851
-120	Body Part, Organ, or Organ Component-has_physical_part_of_anatomic_structure-Body Part, Organ, or Organ Component	0.142217993474
-121	Sign or Symptom-has_manifestation-Disease or Syndrome	0.140129781194
-122	Acquired Abnormality-inverse_isa-Disease or Syndrome	0.139324418409
-123	Mental or Behavioral Dysfunction-related_to-Mental or Behavioral Dysfunction	0.138823851313
-124	Body Part, Organ, or Organ Component-receives_input_from-Body Part, Organ, or Organ Component	0.138593298645
-125	Disease or Syndrome-has_translation-Disease or Syndrome	0.136424733409
-126	Tissue-isa-Cell Component	0.135834786168
-127	Animal-has_translation-Animal	0.134578975057
-128	Finding-contraindicated_with_disease-Organic Chemical	0.133219117478
-129	Sign or Symptom-classified_as-Sign or Symptom	0.130113087593
-130	Finding-finding_site_of-Body System	0.129829485106
-131	Diagnostic Procedure-method_of-Health Care Activity	0.125930824644
-132	Finding-may_treat-Antibiotic	0.125595709795
-133	Element, Ion, or Isotope-has_contraindicated_drug-Disease or Syndrome	0.125433157157
-134	Neoplastic Process-classified_as-Neoplastic Process	0.125123645803
-135	Diagnostic Procedure-isa-Diagnostic Procedure	0.124945317068
-136	Pathologic Function-may_treat-Organic Chemical	0.124008145109
-137	Finding-is_associated_anatomic_site_of-Body System	0.123652843089
-138	Disease or Syndrome-is_associated_anatomic_site_of-Body Part, Organ, or Organ Component	0.123114729266
-139	Sign or Symptom-classifies-Sign or Symptom	0.121522199781
-140	Pathologic Function-inverse_isa-Disease or Syndrome	0.12019370419
-141	Disease or Syndrome-pathological_process_of-Disease or Syndrome	0.117890743689
-142	Health Care Activity-isa-Health Care Activity	0.117299951491
-143	Disease or Syndrome-associated_morphology_of-Disease or Syndrome	0.116276432463
-144	Finding-classifies-Pathologic Function	0.115760357052
-145	Finding-finding_site_of-Body Part, Organ, or Organ Component	0.114968084134
-146	Diagnostic Procedure-inverse_isa-Health Care Activity	0.113971154776
-147	Finding-classified_as-Finding	0.113324510935
-148	Pharmacologic Substance-active_ingredient_of-Cell Component	0.110835018582
-149	Pathologic Function-inverse_isa-Sign or Symptom	0.108905017359
-150	Body Part, Organ, or Organ Component-inverse_isa-Body Part, Organ, or Organ Component	0.10889545636
-151	Injury or Poisoning-associated_morphology_of-Injury or Poisoning	0.107309305857
-152	Finding-is_interpreted_by-Physiologic Function	0.106115386507
-153	Quantitative Concept-has_interpretation-Mental or Behavioral Dysfunction	0.105258394498
-154	Sign or Symptom-is_interpreted_by-Organ or Tissue Function	0.102941580805
-155	Element, Ion, or Isotope-inverse_isa-Inorganic Chemical	0.100653877952
-156	Laboratory Procedure-procedure_site_of-Body Part, Organ, or Organ Component	0.100321079531
-157	Pathologic Function-inverse_isa-Injury or Poisoning	0.100167197071
-158	Sign or Symptom-classified_as-Finding	0.0994544409291
-159	Sign or Symptom-has_definitional_manifestation-Sign or Symptom	0.0987627757941
-160	Disease or Syndrome-inverse_isa-Disease or Syndrome	0.097190323399
-161	Population Group-isa-Population Group	0.0960327762497
-162	Therapeutic or Preventive Procedure-has_translation-Therapeutic or Preventive Procedure	0.0955265971202
-163	Element, Ion, or Isotope-has_ingredient-Inorganic Chemical	0.0951031893047
-164	Laboratory Procedure-direct_procedure_site_of-Body Part, Organ, or Organ Component	0.0926471455519
-165	Body Part, Organ, or Organ Component-has_systemic_part-Body System	0.091167419669
-166	Diagnostic Procedure-inverse_isa-Diagnostic Procedure	0.0905978304933
-167	Spatial Concept-sib_in_isa-Body Part, Organ, or Organ Component	0.0878001549716
-168	Organic Chemical-tradename_of-Inorganic Chemical	0.0867367629658
-169	Element, Ion, or Isotope-has_contraindicated_drug-Organism Function	0.0842681931749
-170	Body Part, Organ, or Organ Component-location_of-Body Part, Organ, or Organ Component	0.0831559791867
-171	Finding-is_interpreted_by-Organism Attribute	0.0790402573388
-172	Temporal Concept-has_translation-Temporal Concept	0.078970111815
-173	Body Part, Organ, or Organ Component-has_translation-Body Part, Organ, or Organ Component	0.0787815123603
-174	Clinical Attribute-class_of-Organism Function	0.0769241314053
-175	Finding-isa-Disease or Syndrome	0.0766366388081
-176	Body Location or Region-isa-Body Part, Organ, or Organ Component	0.0716824347039
-177	Finding-interprets-Finding	0.0708504375329
-178	Mental or Behavioral Dysfunction-may_treat-Lipid	0.0700587450621
-179	Qualitative Concept-has_interpretation-Mental or Behavioral Dysfunction	0.0693524244485
-180	Body Part, Organ, or Organ Component-sib_in_part_of-Body Location or Region	0.0686123466212
-181	Sign or Symptom-see_from-Mental Process	0.0679260622302
-182	Sign or Symptom-is_location_of_biological_process-Body Part, Organ, or Organ Component	0.0657505006766
-183	Body Location or Region-has_systemic_part-Body System	0.0616696319611
-184	Disease or Syndrome-finding_site_of-Body Location or Region	0.060820570682
-185	Disease or Syndrome-inverse_isa-Pathologic Function	0.0595207301528
-186	Diagnostic Procedure-method_of-Diagnostic Procedure	0.0594831489069
-187	Injury or Poisoning-finding_site_of-Body Part, Organ, or Organ Component	0.0565569937486
-188	Laboratory Procedure-excised_anatomy_has_procedure-Body Part, Organ, or Organ Component	0.0555170256089
-189	Sign or Symptom-has_cdrh_parent-Sign or Symptom	0.0550343896517
-190	Injury or Poisoning-inverse_isa-Injury or Poisoning	0.0538168107294
-191	Sign or Symptom-finding_site_of-Body Location or Region	0.0533836538001
-192	Body Part, Organ, or Organ Component-sib_in_part_of-Body Part, Organ, or Organ Component	0.0529060931464
-193	Organic Chemical-has_ingredient-Organic Chemical	0.052890890997
-194	Laboratory or Test Result-finding_site_of-Body Part, Organ, or Organ Component	0.050288640055
-195	Body Part, Organ, or Organ Component-has_part-Body Location or Region	0.0492172383634
-196	Health Care Activity-inverse_isa-Therapeutic or Preventive Procedure	0.0488278874807
-197	Sign or Symptom-gene_associated_with_disease-Gene or Genome	0.0478739501102
-198	Sign or Symptom-finding_site_of-Body System	0.0476409722881
-199	Organic Chemical-has_ingredient-Finding	0.0458465161849
-200	Pathologic Function-has_systemic_part-Body Substance	0.0419567894739
+1	Finding-interpretation_of-Qualitative Concept	0.530936394441
+2	Anatomical Abnormality-isa-Anatomical Abnormality	0.51424900517
+3	Qualitative Concept-possibly_equivalent_to-Qualitative Concept	0.509920442442
+4	Disease or Syndrome-has_focus-Therapeutic or Preventive Procedure	0.506258567615
+5	Body Part, Organ, or Organ Component-anatomic_structure_is_physical_part_of-Body Location or Region	0.50550047494
+6	Element, Ion, or Isotope-mapped_to-Element, Ion, or Isotope	0.503984680915
+7	Sign or Symptom-mapped_to-Disease or Syndrome	0.503448220744
+8	Individual Behavior-inverse_isa-Individual Behavior	0.503223066766
+9	Therapeutic or Preventive Procedure-target_anatomy_has_procedure-Body System	0.502803274612
+10	Body Part, Organ, or Organ Component-has_finding_site-Injury or Poisoning	0.50253708214
+11	Anatomical Abnormality-has_associated_morphology-Disease or Syndrome	0.501868612604
+12	Disease or Syndrome-may_treat-Hazardous or Poisonous Substance	0.501675279724
+13	Finding-mapped_to-Disease or Syndrome	0.501497106754
+14	Finding-has_actual_outcome-Pathologic Function	0.501486846416
+15	Neoplastic Process-inverse_isa-Neoplastic Process	0.500701126707
+16	Sign or Symptom-mapped_to-Finding	0.500568989417
+17	Body Location or Region-inverse_isa-Body Location or Region	0.500339418724
+18	Element, Ion, or Isotope-isa-Chemical	0.500319942714
+19	Injury or Poisoning-isa-Disease or Syndrome	0.500312568283
+20	Injury or Poisoning-inverse_isa-Disease or Syndrome	0.500281161955
+21	Disease or Syndrome-isa-Finding	0.500277387498
+22	Idea or Concept-inverse_isa-Finding	0.500093514933
+23	Disease or Syndrome-may_prevent-Hormone	0.500088030176
+24	Disease or Syndrome-may_treat-Biomedical or Dental Material	0.500078151878
+25	Disease or Syndrome-may_treat-Organophosphorus Compound	0.500078151878
+26	Sign or Symptom-isa-Finding	0.500058336383
+27	Anatomical Abnormality-isa-Finding	0.500047420193
+28	Finding-inverse_isa-Intellectual Product	0.499977323579
+29	Cell-has_finding_site-Acquired Abnormality	0.4999149151
+30	Finding-inverse_isa-Health Care Activity	0.49985481606
+31	Disease or Syndrome-mapped_to-Pathologic Function	0.499721650743
+32	Anatomical Abnormality-mapped_to-Neoplastic Process	0.499701521042
+33	Body Part, Organ, or Organ Component-constitutional_part_of-Body Part, Organ, or Organ Component	0.499475091523
+34	Body Part, Organ, or Organ Component-has_procedure_site-Diagnostic Procedure	0.499438666277
+35	Daily or Recreational Activity-isa-Finding	0.499436852656
+36	Organic Chemical-tradename_of-Organic Chemical	0.499364686383
+37	Therapeutic or Preventive Procedure-related_to-Therapeutic or Preventive Procedure	0.499143116615
+38	Sign or Symptom-may_treat-Hazardous or Poisonous Substance	0.499030295387
+39	Body Location or Region-has_system-Clinical Attribute	0.498827165743
+40	Sign or Symptom-associated_with-Sign or Symptom	0.498793705979
+41	Disease or Syndrome-has_associated_etiologic_finding-Disease or Syndrome	0.498721117645
+42	Element, Ion, or Isotope-mapped_to-Inorganic Chemical	0.498714996717
+43	Disease or Syndrome-isa-Acquired Abnormality	0.498673956705
+44	Body Location or Region-procedure_has_partially_excised_anatomy-Therapeutic or Preventive Procedure	0.49866301367
+45	Finding-has_associated_finding-Finding	0.49862270594
+46	Qualitative Concept-has_severity-Sign or Symptom	0.498396446951
+47	Finding-has_manifestation-Congenital Abnormality	0.498272552208
+48	Organic Chemical-has_contraindicated_drug-Disease or Syndrome	0.498254145926
+49	Body Location or Region-has_finding_site-Organism Attribute	0.497900055984
+50	Injury or Poisoning-disease_may_have_finding-Disease or Syndrome	0.497775864345
+51	Anatomical Abnormality-see_from-Disease or Syndrome	0.497623888603
+52	Finding-isa-Phenomenon or Process	0.497615072396
+53	Body Substance-sib_in_isa-Sign or Symptom	0.497539781341
+54	Spatial Concept-isa-Physical Object	0.497467529862
+55	Body Location or Region-anatomic_structure_has_location-Body Space or Junction	0.497242993237
+56	Therapeutic or Preventive Procedure-mapped_from-Finding	0.497100963242
+57	Laboratory or Test Result-parent_is_nichd-Finding	0.496711630855
+58	Disease or Syndrome-is_normal_cell_origin_of_disease-Cell	0.496344924426
+59	Finding-disease_has_finding-Disease or Syndrome	0.496289189106
+60	Therapeutic or Preventive Procedure-related_to-Group Attribute	0.496228266851
+61	Finding-contraindicated_with_disease-Organic Chemical	0.496112872651
+62	Daily or Recreational Activity-mapped_to-Group Attribute	0.495816769496
+63	Therapeutic or Preventive Procedure-has_associated_procedure-Finding	0.495738609365
+64	Pathologic Function-has_translation-Pathologic Function	0.495571043316
+65	Diagnostic Procedure-isa-Laboratory Procedure	0.495164647208
+66	Anatomical Abnormality-disease_has_associated_disease-Neoplastic Process	0.495136852492
+67	Body Location or Region-disease_has_associated_anatomic_site-Disease or Syndrome	0.494519858249
+68	Element, Ion, or Isotope-has_active_ingredient-Clinical Drug	0.493470758993
+69	Neoplastic Process-eo_disease_maps_to_human_disease-Neoplastic Process	0.492830132643
+70	Body Part, Organ, or Organ Component-part_of-Cell	0.49264252982
+71	Mental Process-is_location_of_biological_process-Body System	0.492459392775
+72	Body Location or Region-has_associated_morphology-Injury or Poisoning	0.492432973685
+73	Therapeutic or Preventive Procedure-used_for-Therapeutic or Preventive Procedure	0.49152669032
+74	Body Part, Organ, or Organ Component-has_finding_site-Laboratory or Test Result	0.489759710505
+75	Therapeutic or Preventive Procedure-method_of-Health Care Activity	0.489121377448
+76	Diagnostic Procedure-same_as-Diagnostic Procedure	0.489116116085
+77	Diagnostic Procedure-related_to-Phenomenon or Process	0.488698426033
+78	Body Substance-mapped_to-Organism Function	0.487940603
+79	Element, Ion, or Isotope-has_ingredient-Organic Chemical	0.482483930146
+80	Element, Ion, or Isotope-has_component-Clinical Attribute	0.479386635173
+81	Finding-actual_outcome_of-Qualitative Concept	0.472752491534
+82	Body Part, Organ, or Organ Component-has_finding_site-Anatomical Abnormality	0.452253135473
+83	Neoplastic Process-isa-Neoplastic Process	0.444227842703
+84	Laboratory or Test Result-inverse_isa-Laboratory or Test Result	0.432105199048
+85	Injury or Poisoning-classified_as-Injury or Poisoning	0.431515586014
+86	Diagnostic Procedure-access_instrument_of-Medical Device	0.428452049943
+87	Anatomical Abnormality-has_associated_morphology-Neoplastic Process	0.422052671776
+88	Anatomical Abnormality-has_direct_morphology-Therapeutic or Preventive Procedure	0.411720043741
+89	Finding-associated_with-Disease or Syndrome	0.40888060448
+90	Finding-related_to-Therapeutic or Preventive Procedure	0.406563401227
+91	Anatomical Abnormality-isa-Neoplastic Process	0.401855568131
+92	Body Part, Organ, or Organ Component-has_permuted_term-Body Part, Organ, or Organ Component	0.392192557529
+93	Mental or Behavioral Dysfunction-isa-Mental or Behavioral Dysfunction	0.377040092747
+94	Neoplastic Process-is_abnormal_cell_of_disease-Cell	0.36421158141
+95	Therapeutic or Preventive Procedure-has_translation-Therapeutic or Preventive Procedure	0.363323510463
+96	Sign or Symptom-is_interpreted_by-Clinical Attribute	0.361631212987
+97	Quantitative Concept-has_interpretation-Pathologic Function	0.357613352611
+98	Body Location or Region-has_procedure_site-Therapeutic or Preventive Procedure	0.356743954489
+99	Finding-inverse_isa-Clinical Attribute	0.350792513848
+100	Individual Behavior-has_translation-Individual Behavior	0.349796749916
+101	Neoplastic Process-has_translation-Neoplastic Process	0.349024467941
+102	Therapeutic or Preventive Procedure-direct_procedure_site_of-Body Part, Organ, or Organ Component	0.339441355439
+103	Injury or Poisoning-finding_site_of-Body Part, Organ, or Organ Component	0.335281924051
+104	Diagnostic Procedure-device_used_by-Medical Device	0.333240483289
+105	Disease or Syndrome-use-Disease or Syndrome	0.333136776985
+106	Anatomical Abnormality-isa-Disease or Syndrome	0.332839454648
+107	Element, Ion, or Isotope-has_component-Laboratory Procedure	0.33216201639
+108	Body Part, Organ, or Organ Component-sends_output_to-Body Part, Organ, or Organ Component	0.331871376717
+109	Laboratory or Test Result-classified_as-Laboratory or Test Result	0.328013770338
+110	Sign or Symptom-mapped_from-Mental or Behavioral Dysfunction	0.325083036478
+111	Body Part, Organ, or Organ Component-attributed_part_of-Body Part, Organ, or Organ Component	0.32001882755
+112	Disease or Syndrome-alias_of-Disease or Syndrome	0.318854485052
+113	Sign or Symptom-related_to-Disease or Syndrome	0.312881713167
+114	Finding-inverse_isa-Disease or Syndrome	0.31151227108
+115	Finding-has_manifestation-Disease or Syndrome	0.305102529823
+116	Finding-may_treat-Organic Chemical	0.305064663712
+117	Finding-is_interpreted_by-Individual Behavior	0.303793725051
+118	Disease or Syndrome-classified_as-Disease or Syndrome	0.302561928665
+119	Diagnostic Procedure-inverse_isa-Laboratory Procedure	0.301092725087
+120	Disease or Syndrome-may_prevent-Inorganic Chemical	0.300026255172
+121	Neoplastic Process-is_normal_cell_origin_of_disease-Cell	0.298139916246
+122	Disease or Syndrome-mapped_from-Disease or Syndrome	0.292440269234
+123	Spatial Concept-isa-Qualitative Concept	0.277897261556
+124	Sign or Symptom-is_location_of_biological_process-Body System	0.277558482878
+125	Individual Behavior-use-Individual Behavior	0.276701190388
+126	Mental or Behavioral Dysfunction-mapped_to-Mental or Behavioral Dysfunction	0.276299376148
+127	Disease or Syndrome-disease_may_have_finding-Neoplastic Process	0.274981644881
+128	Finding-same_as-Finding	0.274429324235
+129	Disease or Syndrome-related_to-Organic Chemical	0.268747207974
+130	Finding-related_to-Laboratory Procedure	0.26785050156
+131	Injury or Poisoning-associated_morphology_of-Injury or Poisoning	0.262956605503
+132	Finding-related_to-Injury or Poisoning	0.262935207967
+133	Element, Ion, or Isotope-has_ingredient-Inorganic Chemical	0.262742553971
+134	Functional Concept-inverse_isa-Pathologic Function	0.262388008253
+135	Pharmacologic Substance-inverse_isa-Pharmacologic Substance	0.259264655909
+136	Finding-is_interpreted_by-Physiologic Function	0.257745122492
+137	Element, Ion, or Isotope-has_direct_substance-Therapeutic or Preventive Procedure	0.255810750476
+138	Finding-has_translation-Finding	0.253325090314
+139	Body Part, Organ, or Organ Component-has_part-Body Part, Organ, or Organ Component	0.252015326231
+140	Disease or Syndrome-has_associated_finding-Disease or Syndrome	0.250257340912
+141	Anatomical Abnormality-has_translation-Anatomical Abnormality	0.24957376237
+142	Sign or Symptom-classifies-Disease or Syndrome	0.24823792261
+143	Disease or Syndrome-may_treat-Organic Chemical	0.24782636147
+144	Population Group-isa-Population Group	0.243399883254
+145	Anatomical Abnormality-subset_includes_concept-Intellectual Product	0.242277375476
+146	Neoplastic Process-subset_includes_concept-Intellectual Product	0.240867920693
+147	Disease or Syndrome-related_to-Pharmacologic Substance	0.23926645889
+148	Diagnostic Procedure-procedure_site_of-Body Part, Organ, or Organ Component	0.238668917522
+149	Pathologic Function-classified_as-Pathologic Function	0.23789075644
+150	Pathologic Function-may_treat-Hormone	0.23749207391
+151	Disease or Syndrome-related_to-Disease or Syndrome	0.23588007671
+152	Disease or Syndrome-related_to-Clinical Attribute	0.235763672025
+153	Disease or Syndrome-entry_combination_of-Pathologic Function	0.235072082767
+154	Sign or Symptom-classified_as-Body Substance	0.234273851028
+155	Disease or Syndrome-finding_site_of-Tissue	0.231347398713
+156	Body Part, Organ, or Organ Component-anatomic_structure_is_physical_part_of-Tissue	0.231217299292
+157	Spatial Concept-possibly_equivalent_to-Functional Concept	0.230916282276
+158	Disease or Syndrome-definitional_manifestation_of-Finding	0.230550970303
+159	Body Part, Organ, or Organ Component-inverse_isa-Body Part, Organ, or Organ Component	0.230178437624
+160	Disease or Syndrome-related_to-Inorganic Chemical	0.229174266216
+161	Sign or Symptom-has_manifestation-Disease or Syndrome	0.22845740857
+162	Therapeutic or Preventive Procedure-excised_anatomy_has_procedure-Body Part, Organ, or Organ Component	0.226029627014
+163	Mental or Behavioral Dysfunction-may_treat-Inorganic Chemical	0.223140605457
+164	Mental or Behavioral Dysfunction-classifies-Mental or Behavioral Dysfunction	0.222586382363
+165	Diagnostic Procedure-classifies-Diagnostic Procedure	0.221209200095
+166	Medical Device-same_as-Medical Device	0.219193075252
+167	Disease or Syndrome-may_prevent-Organic Chemical	0.217972037582
+168	Finding-mapped_from-Finding	0.213678496109
+169	Diagnostic Procedure-direct_procedure_site_of-Body Part, Organ, or Organ Component	0.213091580937
+170	Tissue-isa-Cell Component	0.210357047785
+171	Diagnostic Procedure-inverse_isa-Diagnostic Procedure	0.209048652508
+172	Body Part, Organ, or Organ Component-has_finding_site-Pathologic Function	0.208071412961
+173	Finding-is_interpreted_by-Finding	0.206375123244
+174	Element, Ion, or Isotope-has_measured_component-Laboratory Procedure	0.204877766281
+175	Sign or Symptom-classifies-Mental or Behavioral Dysfunction	0.203156280817
+176	Therapeutic or Preventive Procedure-classified_as-Intellectual Product	0.203106705933
+177	Disease or Syndrome-see-Pathologic Function	0.202972664757
+178	Body Part, Organ, or Organ Component-isa-Body Part, Organ, or Organ Component	0.202793219139
+179	Amino Acid, Peptide, or Protein-inverse_isa-Amino Acid, Peptide, or Protein	0.202555221643
+180	Pathologic Function-classifies-Finding	0.199855440552
+181	Disease or Syndrome-due_to-Disease or Syndrome	0.199488447058
+182	Body Part, Organ, or Organ Component-has_direct_procedure_site-Therapeutic or Preventive Procedure	0.198096136146
+183	Disease or Syndrome-related_to-Injury or Poisoning	0.197136062158
+184	Element, Ion, or Isotope-inverse_isa-Chemical Viewed Structurally	0.195236030407
+185	Disease or Syndrome-may_treat-Pharmacologic Substance	0.194672180153
+186	Mental or Behavioral Dysfunction-may_treat-Organic Chemical	0.194230231654
+187	Disease or Syndrome-isa-Disease or Syndrome	0.19339889279
+188	Pathologic Function-may_treat-Neuroreactive Substance or Biogenic Amine	0.192073504497
+189	Therapeutic or Preventive Procedure-method_of-Therapeutic or Preventive Procedure	0.188118959317
+190	Therapeutic or Preventive Procedure-isa-Therapeutic or Preventive Procedure	0.187733927168
+191	Anatomical Abnormality-inverse_isa-Pathologic Function	0.186355830269
+192	Element, Ion, or Isotope-has_component-Diagnostic Procedure	0.185507815737
+193	Finding-isa-Laboratory or Test Result	0.182260194039
+194	Finding-classified_as-Finding	0.179827888866
+195	Disease or Syndrome-finding_site_of-Body Part, Organ, or Organ Component	0.179556906953
+196	Spatial Concept-sib_in_isa-Spatial Concept	0.179251913427
+197	Element, Ion, or Isotope-has_contraindicated_drug-Organism Function	0.179017103897
+198	Disease or Syndrome-classified_as-Finding	0.177799240142
+199	Body Part, Organ, or Organ Component-has_part-Body System	0.175167295535
+200	Mental or Behavioral Dysfunction-classified_as-Mental or Behavioral Dysfunction	0.173383425509
