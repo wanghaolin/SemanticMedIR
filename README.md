@@ -1,1 +1,2 @@
-The data for our research paper under review. More detailed information will be updated later.
+The experiment results for the publication:
+HaolinWang, Qingpeng Zhang, Jiahu Yuan, “Semantically Enhanced Medical Information Retrieval System: A Tensor Factorization Based Approach” , IEEE ACCESS, 2017
